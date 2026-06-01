@@ -39,4 +39,4 @@ npm start
 - Password: test123
 
 ## Live Demo
-[Link after deployment]
+https://task-manager-ten-theta-87.vercel.app/
